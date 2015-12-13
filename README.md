@@ -1,2 +1,2 @@
 # damped-helmholtz-equation
-Helmholtz equation that accounts for thermal, viscous and reradiation damping
+Helmholtz equation where for thermal, viscous and reradiation damping has been accounted for
